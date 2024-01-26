@@ -51,10 +51,8 @@ export default function SignUp() {
             Blog
           </Link>
           <p className="text-sm mt-5">
-            Lorem Ipsum is simply dummy text of the printing and typesetting
-            industry. Lorem Ipsum has been the industry's standard dummy text
-            ever since the 1500s, when an unknown printer took a galley of type
-            and scrambled it to
+          This is a demo project. You can sign up with your email and password
+            or with Google.
           </p>
         </div>
         {/* right */}
