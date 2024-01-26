@@ -1,4 +1,4 @@
-import { Navbar, TextInput,Button, NavbarCollapse } from "flowbite-react"
+import { Navbar, TextInput,Button } from "flowbite-react"
 import { Link,useLocation } from "react-router-dom"
 import {AiOutlineSearch} from 'react-icons/ai';
 import {FaMoon} from 'react-icons/fa'
