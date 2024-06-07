@@ -20,10 +20,8 @@
     "json": "^11.0.0",
     "jsonwebtoken": "^9.0.2",
     "mongoose": "^8.1.0",
+    "path": "^0.12.7",
     "token": "^0.1.0",
     "web": "^0.0.2"
-  },
-  "devDependencies": {
-    "@vitejs/plugin-react-swc": "^3.7.0"
   }
 }

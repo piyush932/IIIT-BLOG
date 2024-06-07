@@ -56,7 +56,7 @@ export default function Search() {
   }, [location.search]);
 
   const handleChange = (e) => {
-    if (e.target.id === 'searchTerm') {
+    if (e.target.id === 'searchTerm' ) {
       setSidebarData({ ...sidebarData, searchTerm: e.target.value });
     }
     if (e.target.id === 'sort') {
